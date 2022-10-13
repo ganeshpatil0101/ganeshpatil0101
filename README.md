@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Patil</h1>
 <h3 align="center">Javascript & Ui developer with 10+ years exp, architecture, development, TDD & strong analytical and problem solving skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpatil0101&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpatil0101" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshpatil0101" alt="ganeshpatil0101" /></a> </p>
-
 - 🔭 I’m currently working on [Javascript Examples Project](https://github.com/ganeshpatil0101/js-example-tests)
 
 - 🌱 I’m currently learning **UX Design , Figma**
@@ -40,3 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshpatil0101&show_icons=true&locale=en&layout=compact" alt="ganeshpatil0101" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshpatil0101&show_icons=true&locale=en" alt="ganeshpatil0101" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshpatil0101&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshpatil0101" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshpatil0101" alt="ganeshpatil0101" /></a> </p>
